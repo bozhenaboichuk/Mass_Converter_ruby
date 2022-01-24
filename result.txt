@@ -1,0 +1,9 @@
+from gramm to kg 0.10200000000000001
+from pound to kg 9.525432
+from pood to kg 65.5228
+from gramm to kg 0.131
+from pound to kg 5.443104
+from pood to kg 81.90350000000001
+from gramm to kg 0.131
+from pound to kg 5.443104
+from pood to kg 81.90350000000001
